@@ -24,7 +24,7 @@
 ## 📲 Contatos
 
   <a href="https://www.linkedin.com/in/vitorsalgueiro/" target="_blanck" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://api.whatsapp.com/send?phone=5524988667798" target="_blanck" alt="WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a> <a href=" https://t.me/VitorSalgueiro" target="_blanck" alt="WhatsApp"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  </a> <a href="https://t.me/VitorSalgueiro" target="_blanck" alt="Telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 
 
