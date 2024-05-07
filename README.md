@@ -1,6 +1,6 @@
 ## ☕ Olá, meu nome é <strong>Vitor Tiburcio Salgueiro</strong>
 
-> Sou Dev Web a mais de 3 anos, atuo como autônomo e ofereço soluções completas para sites, sistemas e aplicativos.
+> Sou Dev Web a mais de 5 anos, atuo como autônomo e ofereço soluções completas para sites, sistemas e aplicativos.
 
 💼 Como Desenvolvedor principal na Andv Desenvolvimento Web, já desenvolvi muitos projetos de sucesso. Tenho uma extensa carteira de projetos atualmente em funcionamento na web e compartilhei alguns deles no GitHub como demonstração das minhas habilidades.
 
